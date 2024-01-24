@@ -1,4 +1,4 @@
-eadme.md# Card Flipping Counter
+readme.md# Card Flipping Counter
 
 This is a simple React application that simulates flipping a coin.
 
